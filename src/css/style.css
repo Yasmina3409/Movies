@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #1f1d3a !important;
+}
+
+.img_poster {
+
+    object-fit: cover;
+
+}
+
+.taille {
+
+    height: 40px;
+}
